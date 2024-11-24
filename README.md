@@ -1,16 +1,26 @@
-## Hi there 👋
+# Kairat's Personal Space
 
-<!--
-**ImKairat/ImKairat** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Welcome to my GitHub profile! I'm Kairat, an enthusiastic software engineer with experience in various programming languages and technologies.
+ This repository contains my personal projects, experiments, and resources that I've worked on and shared with the community.
 
-Here are some ideas to get you started:
+## About Me
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- 👨‍💻 **Current Role**: Software Engineer at CAIAG
+- 🌍 **Location**: Kyrgyzstan
+- 🚀 **Current Focus**: Backend development with **Rust** 🦀, **Python** 🐍, and **Go** 🦦
+- 📚 **Learning**: Physics, Computer Science, Renewable Energy, and more
+
+## Technologies & Tools
+
+I work with a variety of tools and technologies. Some of the key ones include:
+
+- **Programming Languages**: Rust 🦀, Python 🐍, Go 🦦, C, SQL
+- **Web Development**: FastAPI, Gin (Go), Actix-web
+- **Databases**: PostgreSQL, CassandraDB, Redis
+- **Development Tools**: VSCode, RustRover, Zed, Vim, Git
+- **Cloud & Infrastructure**: Docker, AWS
+- **Linux**: Debian, Arch Linux
+
+---
+
+Thanks for visiting!
