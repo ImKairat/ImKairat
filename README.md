@@ -14,7 +14,7 @@ Welcome to my GitHub profile! I'm Kairat, an enthusiastic software engineer with
 
 I work with a variety of tools and technologies. Some of the key ones include:
 
-- **Programming Languages**: Rust 🦀, Python 🐍, Go 🦦, C, SQL
+- **Programming Languages**: Rust 🦀, Python 🐍, Go 🦦
 - **Web Development**: FastAPI, Gin (Go), Actix-web
 - **Databases**: PostgreSQL, CassandraDB, Redis
 - **Development Tools**: VSCode, RustRover, Zed, Vim, Git
