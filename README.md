@@ -18,7 +18,7 @@ I work with a variety of tools and technologies. Some of the key ones include:
 - **Web Development**: FastAPI, Gin (Go), Actix-web
 - **Databases**: PostgreSQL, CassandraDB, Redis
 - **Development Tools**: VSCode, RustRover, Zed, Vim, Git
-- **Cloud & Infrastructure**: Docker, AWS
+- **Cloud & Infrastructure**: Docker
 - **Linux**: Debian, Arch Linux
 
 ---
