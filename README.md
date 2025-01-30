@@ -15,10 +15,10 @@ Hello! I'm Kairat, an enthusiastic software engineer. This repository contains m
 I work with various tools and technologies, including:
 
 - **Web Development**: Actix-web(Rust), FastAPI(Python), Gin (Go)
-- **Databases**: PostgreSQL, CassandraDB, Redis  
+- **Databases**: PostgreSQL 
 - **Tools**: VSCode, RustRover, Zed, Vim, Git  
 - **Cloud & Infrastructure**: Docker  
-- **Linux**: Debian, Arch Linux  
+- **Linux**: Fedora Linux,Debian, Arch Linux  
 
 ---
 
