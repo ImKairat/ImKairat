@@ -7,14 +7,14 @@ Hello! I'm Kairat, an enthusiastic software engineer. This repository contains m
 
 - 👨‍💻 **Current Role**: Software Engineer at CAIAG  
 - 🌍 **Location**: Kyrgyzstan  
-- 🚀 **Focus**: Backend development with **Rust** 🦀, **Python** 🐍, and **Go** 🦦 
+- 🚀 **Focus**: Backend development with **Rust** 🦀
 - 📚 **Learning**: Physics, Computer Science, Renewable Energy, and more  
 
 ## Technologies & Tools
 
 I work with various tools and technologies, including:
 
-- **Web Development**: Actix-web(Rust), FastAPI(Python), Gin (Go)
+- **Web Development**: Actix-web(Rust)
 - **Databases**: PostgreSQL 
 - **Tools**: VSCode, RustRover, Zed, Vim, Git  
 - **Cloud & Infrastructure**: Docker  
