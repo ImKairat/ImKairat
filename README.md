@@ -5,7 +5,7 @@ Hello! I'm Kairat, an enthusiastic software developer. This repository contains 
 
 ## About Me
 
-- 👨‍💻 **Current Role**: Software Engineer at CAIAG  
+- 👨‍💻 **Current Role**: Software Developer at CAIAG  
 - 🌍 **Location**: Kyrgyzstan  
 - 🚀 **Focus**: Backend development with **Rust** 🦀
 - 📚 **Learning**: Physics, Computer Science, Renewable Energy, and more  
