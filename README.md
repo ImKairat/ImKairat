@@ -2,7 +2,6 @@
 
 Hello! I'm Kairat, an enthusiastic software developer. This repository contains my personal projects, experiments, and resources shared with the community.
 
-
 ## About Me
 
 - 👨‍💻 **Current Role**: Software Developer at CAIAG  
@@ -21,5 +20,7 @@ I work with various tools and technologies, including:
 - **Linux**: Fedora Linux, Debian, Arch Linux  
 
 ---
+
+Check out my personal website: [Kairat's GitHub Website](https://imkairat.github.io/)
 
 Thanks for visiting!
