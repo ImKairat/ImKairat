@@ -13,10 +13,10 @@ Hello! I'm Kairat, an enthusiastic software developer. This repository contains 
 
 I work with various tools and technologies, including:
 
-- **Web Development**: Actix-web(Rust)
-- **Databases**: PostgreSQL 
+- **Web Development**: Python(FastAPI), Actix-web(Rust)
+- **Databases**: PostgreSQL
 - **Tools**: VSCode, RustRover, Zed, Vim, Git  
-- **Cloud & Infrastructure**: Docker  
+- **Cloud & Infrastructure**: Docker
 - **Linux**: Fedora Linux, Debian, Arch Linux  
 
 ---
