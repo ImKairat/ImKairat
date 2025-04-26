@@ -15,7 +15,7 @@ I work with various tools and technologies, including:
 
 - **Web Development**: Python(FastAPI), Actix-web(Rust)
 - **Databases**: PostgreSQL
-- **Tools**: VSCode, RustRover, Zed, Vim, Git  
+- **Tools**: VSCode, RustRover, Vim, Git  
 - **Cloud & Infrastructure**: Docker
 - **Linux**: Fedora Linux, Debian, Arch Linux  
 
