@@ -4,23 +4,21 @@ Hello! I'm Kairat, an enthusiastic software developer. This repository contains 
 
 ## About Me
 
-- 👨‍💻 **Current Role**: Software Developer at CAIAG  
+- 👨‍💻 **Current Role**: Software Developer at [CAIAG](https://www.caiag.kg/en/)
 - 🌍 **Location**: Kyrgyzstan  
-- 🚀 **Focus**: Backend development with **Rust** 🦀
+- 🚀 **Focus**: Software development with **Rust** 🦀
 - 📚 **Learning**: Physics, Computer Science, Renewable Energy, and more  
 
 ## Technologies & Tools
 
 I work with various tools and technologies, including:
 
-- **Web Development**: Python(FastAPI), Actix-web(Rust)
+- **Software Development**: Python, Rust
 - **Databases**: PostgreSQL
-- **Tools**: VSCode, RustRover, Vim, Git  
+- **Tools**: VSCode, RustRover, Vim, Git
 - **Cloud & Infrastructure**: Docker
-- **Linux**: Fedora Linux, Debian, Arch Linux  
+- **OS**: Fedora Linux, Debian, Arch Linux  
 
 ---
 
 Check out my personal website: [Kairat's GitHub Website](https://imkairat.github.io/)
-
-Thanks for visiting!
