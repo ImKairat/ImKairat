@@ -6,7 +6,7 @@ Hello! I'm Kairat, an enthusiastic software developer. This repository contains 
 
 - 👨‍💻 **Current Role**: Software Developer at [CAIAG](https://www.caiag.kg/en/)
 - 🌍 **Location**: Kyrgyzstan  
-- 🚀 **Focus**: Software development with **Rust** 🦀
+- 🚀 **Focus**: Web development with **Python** 🐍 & Software development with **Rust** 🦀
 - 📚 **Learning**: Physics, Computer Science, Renewable Energy, and more  
 
 ## Technologies & Tools
