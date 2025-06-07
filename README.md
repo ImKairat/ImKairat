@@ -17,7 +17,7 @@ I work with various tools and technologies, including:
 - **Databases**: PostgreSQL
 - **Tools**: VSCode, RustRover, Vim, Git
 - **Cloud & Infrastructure**: Docker
-- **OS**: Fedora Linux, Debian, Arch Linux  
+- **OS**: Fedora Linux, Debian, Arch Linux, NixOS
 
 ---
 
