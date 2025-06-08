@@ -17,7 +17,10 @@ I work with various tools and technologies, including:
 - **Databases**: PostgreSQL
 - **Tools**: VSCode, RustRover, Vim, Git
 - **Cloud & Infrastructure**: Docker
-- **OS**: Fedora Linux, Debian, Arch Linux
+- **OS**: Fedora Linux <img src="assets/fedora-svgrepo-com.svg" alt="Fedora Icon" width="16"/>
+  , Debian <img src="assets/debian-svgrepo-com.svg" alt="Debian Icon" width="16"/>
+  , Arch Linux <img src="assets/arch-linux-svgrepo-com.svg" alt="Arch Icon" width="16"/>
+
 
 ---
 
