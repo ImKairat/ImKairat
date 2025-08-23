@@ -1,6 +1,6 @@
 # Welcome to Kairat's GitHub Profile!
 
-Hello! I'm Kairat, an enthusiastic software engineer. This repository contains my personal projects, experiments, and resources shared with the community.
+I'm Kairat, a software engineer. This profile is home to my projects, experiments, and resources.
 
 ## About Me
 
